@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm pixel-revolve 👋
+
+> About me
 
 - 🔭 University student
 - 🌱 Learning Java && Golang && Block chain
