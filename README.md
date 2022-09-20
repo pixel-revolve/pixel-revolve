@@ -9,4 +9,4 @@
 - 🤔 Looking for job
 - ⚡ Thinking about the origin and future of mankind and the world
 
-![pixel-revolve's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixel-revolve&show_icons=true&theme=dark)
+![pixel-revolve's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixel-revolve&show_icons=true&theme=merko)
